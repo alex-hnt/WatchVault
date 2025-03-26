@@ -6,7 +6,9 @@ This repository exists to showcase WatchVault. The code is currently private.
 
 ## Technologies Used
 **Languages:** JavaScript, HTML, CSS
+
 **Technologies/Frameworks:** React, Node.js, PostgreSQL
+
 **Tools:** git, pgAdmin4, DigitalOcean (for hosting)
 
 ## Description
